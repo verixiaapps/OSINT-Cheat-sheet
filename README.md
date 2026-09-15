@@ -2157,6 +2157,8 @@ Note is for investigator like search scandal (Adult), deepfake porn or blackmail
 # Mastodon 
 
 - [imagstodon](https://seintpl.github.io/imagstodon/)
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+
 
 # Twitter
 
